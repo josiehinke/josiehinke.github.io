@@ -1,0 +1,27 @@
+h1 {background-color:powderblue;
+   color:black;
+   text-align:center;
+   font-family:Helveltica, sans-serif;
+}
+
+p {color:gray; 
+  /*font-size:15px;*/
+  /*text-align:center;*/
+  font-family:Times, serif;
+  }
+  
+h2 {color:darkslategray;
+   background-color:lavenderblush;
+   text-align:center;
+   font-family: Arial, sans-serif;
+}
+
+#projects {color:navy;
+        background-color:antiquewhite;
+        text-align:left;
+        font-family:Helveltica, sans-serif;
+        font-size:77;
+        }
+        
+html {background-color:lavender;
+    }

@@ -1,0 +1,29 @@
+body {
+    background-image: url("background.jpg");
+}
+h1 {color:black;
+   background-color:antiquewhite;
+   font-family:Courier, monospace;
+   }
+   
+h2 {color: grey;
+    background-color: lavender;
+    font-family:Courier, monospace;
+    font-size: 30;
+   }
+   
+h3 {color: grey;
+    background-color: lavender;
+    font-family:Courier, monospace;
+    font-size: 30;
+    }
+
+h4 {color: grey;
+    background-color: lavender;
+    font-family:Courier, monospace;
+    font-size: 30;
+    }
+    
+p {color: lavender;
+   font-family: Courier, monospace;
+   font-size: 24}
