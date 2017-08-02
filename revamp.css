@@ -2,7 +2,7 @@
     font-family: 'Leckerli One', cursive;
     color: lightgray;
     background-color: lightgray;
-    color: black;
+    color: lightgray;
     font-size: 25px;
 }
 
@@ -15,7 +15,7 @@ h3{
 .navbar-nav{
     font-family: 'Oswald', sans-serif;
     float: left;
-    color: black;
+    color: lightgray;
 }
 
 .navbar-inverse{
@@ -45,6 +45,7 @@ h4{
 
 h5{
     text-align: center;
+    padding: 40px;
 }
 
 p{
