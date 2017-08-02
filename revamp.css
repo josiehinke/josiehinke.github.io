@@ -1,3 +1,7 @@
+body{
+    background-color: lightpink;
+}
+
 .navbar-brand{
     font-family: 'Leckerli One', cursive;
     color: lightgray;
